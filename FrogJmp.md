@@ -29,6 +29,7 @@ expected worst-case time complexity is O(1);
 expected worst-case space complexity is O(1).
 
 # Solution
+```csharp
 using System;
 // you can also use other imports, for example:
 // using System.Collections.Generic;
@@ -54,3 +55,4 @@ class Solution {
         return distance / D + 1;
     }
 }
+```
